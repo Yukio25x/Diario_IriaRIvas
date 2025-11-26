@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DiarioPersonal_Rivas_Andres_Iria</string>
+    <string name="welcome">Bienvenido!</string>
+    <string name="tv_user">Usuario:</string>
+    <string name="et_user">user</string>
+    <string name="tv_password">Contraseña:</string>
+    <string name="et_password">pass</string>
+    <string name="accept">Aceptar</string>
+    <string name="wrong_login">Información incorrecta</string>
+    <string name="tv_title">Título:</string>
+    <string name="et_title">titulo</string>
+    <string name="tv_mood">Ánimo:</string>
+    <string name="tv_date">Fecha</string>
+    <string name="et_date">Fecha</string>
+    <string name="tv_text">Texto:</string>
+    <string name="et_text">Texto</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="tv_view">Vista:</string>
+    <string name="rb_list">Lista</string>
+    <string name="rb_grid">Cuadrícula</string>
+    <string name="tv_filter">Filtrar por:</string>
+    <string name="tv_search">Buscar:</string>
+    <string name="et_search">Buscar</string>
+    <string name="btn_add">+</string>
+</resources>
